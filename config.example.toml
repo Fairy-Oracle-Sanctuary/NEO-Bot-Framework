@@ -1,0 +1,14 @@
+[napcat_ws]
+uri = "ws://127.0.0.1:3001"
+token = "YOUR_TOKEN_HERE"
+reconnect_interval = 5
+
+[bot]
+command = ["/"]
+ignore_self_message = true #是否忽略自身消息
+
+[redis]
+host = "127.0.0.1"
+port = 6379
+db = 0
+password = "YOUR_REDIS_PASSWORD"

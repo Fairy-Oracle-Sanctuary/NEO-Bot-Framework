@@ -1,0 +1,15 @@
+certifi==2025.11.12
+charset-normalizer==3.4.4
+docopt==0.6.2
+idna==3.11
+pathlib==1.0.1
+pipreqs==0.4.13
+requests==2.32.5
+toml==0.10.2
+typing==3.7.4.3
+urllib3==2.6.2
+websockets==15.0.1
+yarg==0.1.10
+watchdog==6.0.0
+redis==5.0.7
+loguru
