@@ -1048,3 +1048,5 @@ async def handle_friend_request(bot: Bot, event: FriendRequestEvent):
 | **HeartbeatEvent** | `status`, `interval` | 心跳事件，用于监控连接状态 |
 
 通过这套完整的事件模型，NEO 框架为开发者提供了强大而灵活的事件处理能力，同时保持了代码的类型安全和良好的开发体验。
+
+本项目使用MIT协议开源，fos保留版权声明
